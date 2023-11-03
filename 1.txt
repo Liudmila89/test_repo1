@@ -3,3 +3,4 @@ Test case tittle:some tittle
 Steps 1,2,3
 Test case2
 Info about test case 2
+Test case3
